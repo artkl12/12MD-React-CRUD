@@ -1,0 +1,20 @@
+{
+  "cards": [
+    {
+      "image": "/roma.jpeg",
+      "name": "Roma",
+      "description": "Italy",
+      "description2": "delizioso gelato",
+      "date": "2023-11-23T16:37:59.012Z",
+      "id": 1
+    },
+    {
+      "image": "/berlin.jpeg",
+      "name": "Berlin",
+      "description": "Germany",
+      "description2": "Leckeres Bier",
+      "date": "2023-11-23T17:315:32.012Z",
+      "id": 2
+    }
+  ]
+}

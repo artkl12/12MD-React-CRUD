@@ -1,0 +1,13 @@
+ <button onClick={() => {
+        const clonedCardsArr = [...cards];
+        clonedCardsArr.push({
+          image: "https://4.bp.blogspot.com/-hUcx4fAPgSY/WaVTsADjR0I/AAAAAAAABzg/uVO_SlJAHTUFZWpa8CNuQfoDcgTU2elhACLcBGAs/s1600/4.jpeg",
+          name: "aaa",
+          description: "bbb",
+          description2: "ccc",
+          description3: "ddd",
+          date: "12.05.12",
+          id: Math.random(),
+        })
+        setCards(clonedCardsArr);
+      }}>Button</button> 
